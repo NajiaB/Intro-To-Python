@@ -8,8 +8,6 @@
 
 * Duration: 4 hours
 
-* prerequisite: None
-
 ### Workshop goals
 
 * Learn basic Python syntax and concepts: variables, data types, lists, loops, functions, etc.
@@ -25,11 +23,11 @@ None
 * All we need for this workshop is a Google account to open Colab.
    
 ## Small Outline/Structure 
-* topic
+
    - exercise -  https://colab.research.google.com/drive/177yXlgRgIoZRbq-UCdDBDm2N_li_J-P4?usp=sharing
    - solutions - https://colab.research.google.com/drive/1EusaK8I8KeXyug70K94gQtT36JOcmjlw?usp=sharing
 
 ## References
-*Material Adapted from Benjamin Rudski*
+*Material partially adapted from Benjamin Rudski*
    
 *Workshop created as part of the McGill Initiative in Computational Medicine*
