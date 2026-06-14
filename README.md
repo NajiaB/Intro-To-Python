@@ -26,7 +26,7 @@ None
 Please open the Jupyter notebook.
 
    - Link to Jupyter notebook -  https://colab.research.google.com/drive/177yXlgRgIoZRbq-UCdDBDm2N_li_J-P4?usp=sharing   
-   - Link to Juoyter notebook with solutions - https://colab.research.google.com/drive/1EusaK8I8KeXyug70K94gQtT36JOcmjlw?usp=sharing
+   - Link to Jupyter notebook with solutions - https://colab.research.google.com/drive/1EusaK8I8KeXyug70K94gQtT36JOcmjlw?usp=sharing
 
 ## References
 *Material partially adapted from Benjamin Rudski*
